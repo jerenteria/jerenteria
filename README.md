@@ -1,5 +1,5 @@
-### Hi there 👋
-### My name is Juan Renteria
+## Hello and Welcome to my GitHub! 👋
+## My name is Juan Renteria
 ## I am a Coding Dojo graduate 🥷🏼
 ## and I enjoy building websites 💻
 ## ✍🏻 I am currently working on data structures and algorithms 🤖
