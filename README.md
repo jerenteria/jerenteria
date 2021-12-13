@@ -3,6 +3,7 @@ My name is Juan Renteria
 I am a Coding Dojo graduate 🥷🏼
 and I enjoy building websites 	💻
 ✍🏻 I am currently working on data structures and algorithms 🤖
+
 <!--
 **jerenteria/jerenteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
