@@ -4,7 +4,7 @@
 ## and I enjoy building web apps 💻
 ## I am currently working on ✍🏻 data structures and algorithms 🤖
 ## My goal is to have at least one contribution a day on github!
-
+## Currently working on a few projects!
 <!--
 **jerenteria/jerenteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
