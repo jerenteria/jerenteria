@@ -2,7 +2,7 @@
 ## My name is Juan Renteria
 ## I am a Coding Dojo graduate 🥷🏼
 ## and I enjoy building web apps 💻
-## I am currently working on ✍🏻 data structures and algorithms 🤖
+## Constantly working on ✍🏻 data structures and algorithms 🤖
 ## My goal is to have at least one contribution a day on github!
 <!--
 **jerenteria/jerenteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
