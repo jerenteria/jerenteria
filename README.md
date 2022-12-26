@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Python3, Django, Java**
 
-- ⚡ Fun fact **I enjoy playing video games**
+- ⚡ Fun fact **I enjoy playing video games on my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
