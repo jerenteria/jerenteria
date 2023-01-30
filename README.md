@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Renteria</h1>
-<h3 align="center">A passionate developer always wanting to learn more!</h3>
+<h3 align="center">I am a passionate developer always wanting to learn more 
+  <br> Feel free to checkout my projects as I am always creating and finding new ways to improve!</h3>
 
 - 💬 Ask me about **Python3, Django, Java**
 
