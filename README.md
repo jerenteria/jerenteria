@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate developer always wanting to learn more 
   <br> Feel free to checkout my projects as I am always creating and finding new ways to improve!</h3>
 
-- 💬 Ask me about **Python3, Django, Java**
+- 💬 Ask me about **Python3, Django, Javascript, React, Java**
 
 - ⚡ Fun fact **I enjoy playing video games on my free time**
 
